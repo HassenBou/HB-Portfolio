@@ -1,0 +1,16 @@
+Projet Idea: Deigital designer portfolio Hassen Bouzidi
+
+Features: 
+
+	* Importent informations about the Designer.
+	* Get a curriculum vitae pdf from a button.
+	* Discover services that he offers in home page.
+	* Quick view to the projects compilation.
+	* New color mode to navigate in the web pages.
+	* Responsive design.
+	* Specific page linked from the home page wich content a selection of the brandings artworks.
+	* Specific page linked from the home page to take a look at the websites designed by the designer with full preview.
+	* Specific page linked from the home page to preview graphic motions projets realised by the designer.
+	* Contact form to get in touch and send e-mails.
+	* Social media links to discover more artworks.
+ 
